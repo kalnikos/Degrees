@@ -1,7 +1,7 @@
 # Degrees
-The main purpose of this project is to extract some conclusions about the given data features. I applied some basic statistics and visualization techniques in order to understand the variance of the data. After that, I was able to answer some relevant questions such as: Which students made the highest average degree based on: the group in which they belonged, the level of education and their gender. In addition, I tried to classify the degrees and checked the impact that preparation may have had on their degrees.
+The main purpose of this project is to extract some conclusions about the given data features. I applied some basic statistics and visualization techniques in order to understand the diastribution of the data. After that, I was able to answer some relevant questions such as: Which students made the highest average degree based on: the group in which they belonged, the level of education and their gender. In addition, I tried to classify the degrees and checked the impact that preparation may have had on their degrees.
 
-Finally, I realized that the course which was difficult for all students was Math.  I was aiming to understand if preparation is necessary in order to achieve a higher degree by comparing males to females with or without preparation.
+Finally, I realized that the course which was difficult for all students was Math.  I was aiming to understand if preparation is necessary in order to achieve a higher grade by comparing males to females with or without preparation.
 
 ## The Degrees based on the Education
 
@@ -23,6 +23,7 @@ Finally, I realized that the course which was difficult for all students was Mat
 
 ![preperation3](https://user-images.githubusercontent.com/66875726/90023935-f9bb8580-dcbc-11ea-8800-624046f538c2.png)
 
-### The course that was difficult for all the student was Math.
-### Compare males and females with preparation or withou before the course and examine if it’s necessary the course before the exams
+### The course that was difficult for all the student was Math. ### Compare males and females with preparation or without before the course and examine if it’s necessary to pick a course before the exams based on the pass grade
+
+![compare](https://user-images.githubusercontent.com/66875726/90024420-82d2bc80-dcbd-11ea-8860-d0c9a7b0f3f8.png)
 
