@@ -23,7 +23,7 @@ Finally, I realized that the course which was difficult for all students was Mat
 
 ![preperation3](https://user-images.githubusercontent.com/66875726/90023935-f9bb8580-dcbc-11ea-8800-624046f538c2.png)
 
-### The course that was difficult for all the student was Math. ### Compare males and females with preparation or without before the course and examine if it’s necessary to pick a course before the exams based on the pass grade
+### The course that was difficult for all the student was Math. Compare males and females with preparation or without before the course and examine if it’s necessary to pick a course before the exams based on the pass grade
 
 ![compare](https://user-images.githubusercontent.com/66875726/90024420-82d2bc80-dcbd-11ea-8860-d0c9a7b0f3f8.png)
 
