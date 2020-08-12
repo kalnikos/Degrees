@@ -15,3 +15,7 @@ Finally, I realized that the course which was difficult for all students was Mat
 
 ![prep](https://user-images.githubusercontent.com/66875726/90022958-d0e6c080-dcbb-11ea-8504-9e9e35926147.png)
 
+## Find the distribution of the degrees beteween the students with or without preperation.
+
+# Find the difference beteween the students whit preperation and without.
+
