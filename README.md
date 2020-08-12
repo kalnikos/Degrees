@@ -7,3 +7,6 @@ Finally, I realized that the course which was difficult for all students was Mat
 
 ![education](https://user-images.githubusercontent.com/66875726/90022026-aa745580-dcba-11ea-81de-20f30e383617.png)
 
+## Degrees distribution based on the Gender (Three different courses) 
+
+![gender](https://user-images.githubusercontent.com/66875726/90022448-35555000-dcbb-11ea-882e-3458063d0911.png)
