@@ -19,4 +19,5 @@ Finally, I realized that the course which was difficult for all students was Mat
 
 ![preperation](https://user-images.githubusercontent.com/66875726/90023236-2ae78600-dcbc-11ea-9fea-40e42989a4cf.png)
 
+![preperation2](https://user-images.githubusercontent.com/66875726/90023740-c0831580-dcbc-11ea-8638-51cef667360b.png)
 
