@@ -22,3 +22,7 @@ Finally, I realized that the course which was difficult for all students was Mat
 ![preperation2](https://user-images.githubusercontent.com/66875726/90023740-c0831580-dcbc-11ea-8638-51cef667360b.png)
 
 ![preperation3](https://user-images.githubusercontent.com/66875726/90023935-f9bb8580-dcbc-11ea-8800-624046f538c2.png)
+
+### The course that was difficult for all the student was Math.
+### Compare males and females with preparation or withou before the course and examine if it’s necessary the course before the exams
+
