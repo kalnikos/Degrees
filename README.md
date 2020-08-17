@@ -1,13 +1,13 @@
 # Degrees
-The main purpose of this project is to extract some conclusions about the given data features. I applied some basic statistics and visualization techniques in order to understand the diastribution of the data. After that, I was able to answer some relevant questions such as: Which students made the highest average degree based on: the group in which they belonged, the level of education and their gender. In addition, I tried to classify the degrees and checked the impact that preparation may have had on their degrees.
+The main purpose of this project is to extract some conclusions about the students performances in three different courses based on their education, preperation before the course and the gender. I applied some basic statistics and visualization techniques in order to understand the diastribution of the data. After that, I was able to answer some relevant questions such as: Which group of students made the highest average score based on: the group in which they belonged, the level of education and their gender.
 
 Finally, I realized that the course which was difficult for all students was Math.  I was aiming to understand if preparation is necessary in order to achieve a higher grade by comparing males to females with or without preparation.
 
-## The Degrees based on the Education
+## The Scores based on the Education
 
 ![education](https://user-images.githubusercontent.com/66875726/90022026-aa745580-dcba-11ea-81de-20f30e383617.png)
 
-## Degrees distribution based on the Gender (Three different courses) 
+## Scores distribution based on the Gender (Three different courses) 
 
 ![gender](https://user-images.githubusercontent.com/66875726/90022448-35555000-dcbb-11ea-882e-3458063d0911.png)
 
@@ -15,7 +15,7 @@ Finally, I realized that the course which was difficult for all students was Mat
 
 ![prep](https://user-images.githubusercontent.com/66875726/90022958-d0e6c080-dcbb-11ea-8504-9e9e35926147.png)
 
-## Find the distribution of the degrees beteween the students with or without preperation.
+## Find the distribution of the scores beteween the students with or without preperation.
 
 ![preperation](https://user-images.githubusercontent.com/66875726/90023236-2ae78600-dcbc-11ea-9fea-40e42989a4cf.png)
 
